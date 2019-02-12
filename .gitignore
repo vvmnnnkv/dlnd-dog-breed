@@ -1,5 +1,5 @@
 model/data/*
-!mode/data/*.sh
+!model/data/*.sh
 model/.ipynb_checkpoints 
 model/__pycache__
 model/yolov3
